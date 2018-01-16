@@ -1,0 +1,1 @@
+java -jar apktool_2.3.1.jar  d   app.apk
